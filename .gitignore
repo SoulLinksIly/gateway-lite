@@ -1,0 +1,9 @@
+__debug_bin
+openp2p.exe
+openp2p-gateway
+openp2p-gateway.exe
+*.log*
+vendor/
+go.sum
+deployService.sh
+.vscode
